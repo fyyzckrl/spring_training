@@ -1,4 +1,4 @@
-package spring;
+package com.cydeo.proxy;
 
 import com.cydeo.model.Comment;
 

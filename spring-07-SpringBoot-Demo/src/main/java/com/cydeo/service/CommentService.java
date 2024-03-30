@@ -1,4 +1,4 @@
-package spring;
+package com.cydeo.service;
 
 import com.cydeo.config.AppConfigData;
 import com.cydeo.config.DBConfigData;

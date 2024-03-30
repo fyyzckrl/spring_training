@@ -1,4 +1,4 @@
-package spring;
+package com.cydeo.model;
 
 import lombok.Data;
 

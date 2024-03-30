@@ -1,4 +1,4 @@
-package spring;
+package com.cydeo.repository;
 
 import com.cydeo.model.Comment;
 

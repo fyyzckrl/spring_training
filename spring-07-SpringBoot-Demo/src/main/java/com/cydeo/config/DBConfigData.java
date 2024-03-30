@@ -1,4 +1,4 @@
-package spring;
+package com.cydeo.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

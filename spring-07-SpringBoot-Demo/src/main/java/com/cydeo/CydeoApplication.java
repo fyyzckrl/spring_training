@@ -1,4 +1,4 @@
-package spring;
+package com.cydeo;
 
 import com.cydeo.model.Comment;
 import com.cydeo.service.CommentService;
