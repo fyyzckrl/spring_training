@@ -6,9 +6,13 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class Mentor {
-    private String firstName;
-    private String lastName;
-    private int age;
+public class Mentor{
+    private String FirstName;
+    private String LastName;
+    private int Age;
     private Gender gender;
+
+
 }
+
+
