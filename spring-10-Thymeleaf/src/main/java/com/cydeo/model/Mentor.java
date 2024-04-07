@@ -11,7 +11,7 @@ public class Mentor {
 
 
     private String firstName;
-    private String lastname;
+    private String lastName;
     private String email;
     private String gender;
     private String batch;
